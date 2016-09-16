@@ -1,0 +1,2 @@
+export const SHOWMORETEXT = 'SHOWMORETEXT';
+export const SHOWLESSTEXT = 'SHOWLESSTEXT';
